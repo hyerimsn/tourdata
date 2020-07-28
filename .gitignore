@@ -41,3 +41,5 @@ vignettes/*.pdf
 __pycache__/
 secret.py
 debug.log
+
+.ipynb_checkpoints/
